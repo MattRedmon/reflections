@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It limited the amount of code we had to scan through to find our error.
+	
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	Having history of your files lets you experiment without being afraid that you might loose the work you've already done.  You can try out things that you may not be sure will work and if they don't you have the chance to go back to an early version that work properly. 
+	
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+	The plus is that you save after you have made a change that is meaningful to you. This give you some flexiblity in how you are saving so that the saves make the most sense. One of he cons is that you may forget to make a commit when you really should have. Maybe you make to many changes beforing commiting and then trying to compare different versions may be difficult because there is to much going on. 
+	
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	Some file logically go together so tracking them together makes the most sense. For other systems like Google Docs tracking files togther is probably a feature that is not needed very much. 
+	
+How can you use the commands git log and git diff to view the history of files?
+
+	Git log lets you see all of the changes that have been commited.  Git diff then lets you compare two commits to see what changes were made. 
+	
+How might using version control make you more confident to make changes that
+could break something?
+
+	If you know you have a back up version of all of your work there is less anxiety over trying new things. 
+	
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to better understand how to make commits. 
+	
