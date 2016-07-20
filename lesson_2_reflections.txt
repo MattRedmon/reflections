@@ -9,3 +9,7 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
     You can compare the staging area to the working directory to see exactly what changes are waiting to be commited.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    The ability to have multiple branches lets you make and test different changes to you program without altering the original.  You can branch off of the master to create a separate branch to test a new feature.  If the test fails and the new feature is not feasible then you master branch is still intact and unharmed from your experimentation.
