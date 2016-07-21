@@ -13,3 +13,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
     The ability to have multiple branches lets you make and test different changes to you program without altering the original.  You can branch off of the master to create a separate branch to test a new feature.  If the test fails and the new feature is not feasible then you master branch is still intact and unharmed from your experimentation.
+
+How do the diagrams help you visualize the branch structure?
+
+    The diagrams help us to see graphically what is going on in our braches.  We see the most recent commits for each branch as well as the parent of that commit and then the parent of that commit going on back through the line of commits for each branch until we get to the point where the branch separated from the master.
