@@ -21,3 +21,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
     The two branches merged into one branch.  The coins commits were added back to the master branch. Now all the commits of the coin branch can be seen in the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    If there are no merge conflicts the automatic merging is much more conveneint as well as easier to use.   Haveing the option of manual merging when there are conflicts allows you to resolve those issues so that the final result is what you actually wanted.
