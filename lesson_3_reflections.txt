@@ -10,3 +10,7 @@ Why might you want to always pull changes manually rather than having Git automa
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
     A branch is something you do on your local machine. You might branch a project because you want to experiment with you code but don't want to permanently alter your original program. A clone is when you copy a repo from Github to you local machine. A fork is when you copy someone elses repo from thier github account to your own github account. You can then clone the repo from you account to your local machine.
+
+
+August 18 2016-
+  adding this line to test pushing data to github.
